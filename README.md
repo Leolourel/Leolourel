@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming, climbing and skiing (yeah, they're quite different)
 - 🌱 I’m currently learning Vue.JS and would like to go towards PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by email at <leolourel@gmail.com>;
+- 📫 How to reach me by email at <leolourel@gmail.com>
